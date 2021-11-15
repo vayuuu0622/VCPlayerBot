@@ -129,7 +129,7 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/joinchat/nV3zX4iz2ORlNDI1'),
+            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/jDI1'),
             InlineKeyboardButton('🧩 Source', url='https://github.com/t')
         ],
         [
